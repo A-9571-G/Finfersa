@@ -1,7 +1,7 @@
 {
   "name": "projects_react",
   "version": "1.0.0",
-  "description": "",
+  "description": "En este projecto se mostraran 5 projectos realizados con React.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
