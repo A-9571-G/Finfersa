@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './int/css/index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import App from './app/App';
+import reportWebVitals from './app/repostrWebVitals/reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App saludos='Angel'>
-    </App>
+    <App/>
   </React.StrictMode>
 );
 

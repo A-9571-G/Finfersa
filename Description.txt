@@ -1,0 +1,14 @@
+### Descripcion del projecto ###
+
+## De su ejecucion ##
+
+Los projectos de react js solo se podran ejecutar descargando o ejecutando el repositorio, una vez instalado se tendra que ejecutar 
+cada uno de los projectos de manera individual,ya que cada projecto se ejecuta de manera independiente, cada carpeta del archivo cuenta con 
+el nombre del projecto, una brebe descripcion del programa y los archivos necesarios para su ejecucion.
+
+Los projectos se podran ejecutar corriendo el comando npm start por consola con la ruta de la carpeta del projecto que desa ejecutar.
+
+## Contactame ##
+
+Mail: Angel_Ortega@nickap.com 
+Phone: 477 396 33 36
